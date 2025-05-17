@@ -27,7 +27,7 @@ A modern Flutter application designed for users to **track, manage, and evaluate
 - Built with **Node.js**, **Express**, and **MongoDB**
 - Includes RESTful APIs for managing stock data
 
-👉 **Backend Repository**: [Stock Evaluation Node.js API]([https://github.com/your-username/stock-evaluation-backend](https://github.com/kausar-fatima/stock-evaluation-server))
+👉 **Backend Repository**: [Stock Evaluation Node.js API](https://github.com/kausar-fatima/stock-evaluation-server)
 
 ---
 
