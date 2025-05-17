@@ -1,16 +1,33 @@
-# stock_management
+# 📦 Stock Management & Evaluation App
 
-A new Flutter project.
+A modern Flutter application designed for users to **track, manage, and evaluate stock levels** in real-time. This project serves as the **client-side application**, while the backend API is powered by **Node.js**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📊 View current stock levels
+- 🧾 Track item evaluations (price, quantity, status)
+- 🔍 Search and filter stock items
+- 📥 Add new stock entries
+- ✏️ Edit and update item information
+- ❌ Delete outdated stock
+- 🔗 Fully integrated with a RESTful Node.js backend
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+### 🔷 Client Side (This Repo)
+- **Flutter** (User Interface)
+- **Getx** (State Management)
+- **HTTP** (for API communication)
+
+### 🔶 Server Side (Backend)
+- Built with **Node.js**, **Express**, and **MongoDB**
+- Includes RESTful APIs for managing stock data
+
+👉 **Backend Repository**: [Stock Evaluation Node.js API]([https://github.com/your-username/stock-evaluation-backend](https://github.com/kausar-fatima/stock-evaluation-server))
+
+---
+
